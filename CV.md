@@ -10,5 +10,5 @@
 
 ## CV
 
-
+My pdf [CV](https://docs.google.com/gview?url=https://github.com/binyueconomics/binyueconomics.github.io/raw/master/Bin_Yu_CV%20_06092021.pdf&embedded=true)
 
