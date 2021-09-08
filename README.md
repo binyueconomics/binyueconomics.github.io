@@ -21,7 +21,7 @@ I'm a PhD candidate at the Economics Department of the University of Essex.
 ### Contact
 Email: <bin.yu@essex.ac.uk>
 
-Address: Colchester Campus, University of Essex, CO3 3SQ, UK. 
+Address: Colchester Campus, University of Essex, CO4 3SQ, UK. 
 
 <br>
 <br>
