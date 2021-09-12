@@ -14,11 +14,11 @@
 
 ### Assistant Lecturer
 
-2021-2022: EC114 Introduction to Quantitative Economics, Class
+2021-2022: EC114 Introduction to Quantitative Economics, Class.
 
-2021-2022: EC116 Applied Economics and Policy, Class
+2021-2022: EC116 Applied Economics and Policy, Class.
 
-Academic Support Hour (F2F/ZOOM): Please email me to take an appointment, <bin.yu@essex.ac.uk>
+Academic Support Hour (F2F/ZOOM): Please email me to take an appointment, <bin.yu@essex.ac.uk>.
 
 Office: 3.314, Colchester Campus.
 
