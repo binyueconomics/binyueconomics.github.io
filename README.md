@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img align="right" src="/assets/images/Bin.png">
+<img align="right" src="/assets/images/IMG_2739.JPG">
 
 I'm a PhD candidate at the Economics Department of the University of Essex. 
 
