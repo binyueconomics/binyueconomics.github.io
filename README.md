@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img align="right" width="250" height="300" src="/assets/images/IMG_2739.JPG">
+<img align="right" width="200" height="240" src="/assets/images/IMG_2739.JPG">
 
 I'm a PhD candidate at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data.  
 
