@@ -25,7 +25,6 @@ Email: <bin.yu@essex.ac.uk>
 
 Address: Colchester Campus, University of Essex, CO4 3SQ, UK. 
 
-Twitter: 
 <a href="https://twitter.com/binyuecon?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @binyuecon</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
