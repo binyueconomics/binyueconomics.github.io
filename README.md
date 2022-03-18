@@ -18,7 +18,7 @@
 I'm a PhD candidate at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data.  
 
 ### Research Interests
-Inequality, Labour economics, Microeconometrics and Trade
+Firm Heterogeneity, Labour economics, Microeconometrics and Trade
  
 ### Contact
 Email: <bin.yu@essex.ac.uk>
