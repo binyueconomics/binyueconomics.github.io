@@ -12,10 +12,10 @@
 
 ## Work in Progress
 
-1. Establishments in Germany 
+1. Globalisation and establishments in Germany 
 
 2. Non-monetary work benefits in the UK
 
-3. Chinese high-speed railyway  
+3. Firms' exposure to Chinese high-speed railyway  
 
 4. Job mobility in Germany 
