@@ -15,7 +15,7 @@
 
 <img align="right" width="200" height="240" src="/assets/images/IMG_2739.JPG">
 
-I'm a PhD candidate at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data. All the replication files (and data if with permission) for my research will be avaliable on this website later. 
+I'm a PhD student at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data. All the replication files (and data if with permission) for my research will be avaliable on this website later. 
 
 ### Research Interests
 Firm Heterogeneity, Labour economics, Microeconometrics and Trade
@@ -24,7 +24,7 @@ Firm Heterogeneity, Labour economics, Microeconometrics and Trade
 Email: <bin.yu@essex.ac.uk>
 
 ### News
-I'll be available to meet on 2022 EEA-ESEM in Milano and EALE annual congress in Padua this summer.  
+I will be coordinating the first Essex PHD Conference in Economics next year. The Announcement of call for paper will be advertised shortly.  
 
 <br>
 <br>
