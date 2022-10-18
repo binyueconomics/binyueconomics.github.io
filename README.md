@@ -24,7 +24,7 @@ Firm Heterogeneity, Labour economics, Microeconometrics and Trade
 Email: <bin.yu@essex.ac.uk>
 
 ### News
-I will be coordinating the first Essex Phd Conference in Economics next year. The Announcement of call for paper will be advertised shortly.  
+I will be coordinating the Inaugural Essex PhD Conference in Applied Economics next year. The Announcement of call for paper will be advertised shortly.  
 
 <br>
 <br>
