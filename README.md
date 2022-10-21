@@ -24,7 +24,7 @@ Firm Heterogeneity, Labour economics, Microeconometrics and Trade
 Email: <bin.yu@essex.ac.uk>
 
 ### News
-I will be coordinating the Inaugural Essex PhD Conference in Applied Economics next year. [Submission is now open!](https://www.essex.ac.uk/events/2023/03/27/inaugural-essex-phd-conference-in-applied-economics). 
+I will be coordinating the Inaugural Essex PhD Conference in Applied Economics (27 - 28 March, 2023). [Submission is now open!](https://www.essex.ac.uk/events/2023/03/27/inaugural-essex-phd-conference-in-applied-economics)
 
 <br>
 <br>
