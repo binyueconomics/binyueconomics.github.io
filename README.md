@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<img align="right" width="200" height="240" src="/assets/images/IMG_2739.JPG">
+<img align="right" width="200" height="240" src="/assets/images/Bin.png">
 
 I'm a PhD student at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data. All the replication files (and data if with permission) for my research will be avaliable on this website later. 
 
