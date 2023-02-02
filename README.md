@@ -22,13 +22,10 @@ Firm Heterogeneity, Labour economics, Microeconometrics and Trade
  
 ### Contact
 Email: <bin.yu@essex.ac.uk>
+Address: Colchester Campus, University of Essex, CO4 3SQ, UK. 
 
 ### News
-I will be coordinating the Inaugural Essex PhD Conference in Applied Economics (27 - 28 March, 2023).
-
-<br>
-<br>
-Address: Colchester Campus, University of Essex, CO4 3SQ, UK. 
+I will be coordinating the Inaugural Essex PhD Conference in Applied Economics (27 - 28 March, 2023). 
 
 <br>
 My school page at [Essex](https://www.essex.ac.uk/people/yubin29406/bin-yu)
