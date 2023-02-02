@@ -11,12 +11,11 @@
 </p>
 
 ## Teaching
+Teaching Qualification: Associate Fellow of the Higher Education Academy (AFHEA)
 
 2021-2023: EC114 Introduction to Quantitative Economics, Class.
 
 2021-2023: EC116 Applied Economics and Policy, Class.
-
-Teaching Qualification: Associate Fellow of the Higher Education Academy (AFHEA)
 
 Academic Support Hour (F2F/ZOOM): Monday, 15:00 - 17:00  as well as Tuesday and Wednesday. For Tuesday and Wednesday, please email me to take an appointment, <bin.yu@essex.ac.uk>.
 
