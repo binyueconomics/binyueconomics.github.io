@@ -12,10 +12,12 @@
 
 ## Work in Progress
 
-1. Globalisation and establishments in Germany 
+1. Non-monetary Work Benefits: Implications for the Gender Pay Gap
 
-2. Non-monetary work benefits in the UK
+2. German Firms’ Responses to Trade Shocks From the East with Thomas Cornelissen (Essex) and Marco
+Francesconi (Essex)
 
-3. Firms' exposure to Chinese high-speed railyway  
+3. Routine and Non-routine Jobs: Young Workers’ Experience in the U.S. and German Labor Market with Yuci Chen
+(Upjohn), Xiaoyu Xia (Essex) and Jin Yan (CUHK)
 
-4. Job mobility in Germany 
+4. Firms around Chinese High Speed Railway with Julan Du (CUHK) and Ling Gao (Xiamen)
