@@ -20,4 +20,4 @@ Francesconi (Essex)
 3. Routine and Non-routine Jobs: Young Workers’ Experience in the U.S. and German Labor Market with Yuci Chen
 (Upjohn), Xiaoyu Xia (Essex) and Jin Yan (CUHK)
 
-4. Firms around Chinese High Speed Railway with Julan Du (CUHK) and Ling Gao (Xiamen)
+4. Worker and Firms' Responses to Autonomous and Augmenting Technology Advancement with Aitor Irastorza-Fadrique (IFS) and Angelos Stenimachitis (Essex)
