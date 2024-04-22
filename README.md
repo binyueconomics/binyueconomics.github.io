@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://binyueconomics.github.io/">Home</a>
-  ·
+  &nbsp; · &nbsp;
   <a href="https://binyueconomics.github.io/CV">CV</a>
   ·
   <a href="https://binyueconomics.github.io/research">Research</a>
