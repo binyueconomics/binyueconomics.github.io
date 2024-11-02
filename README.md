@@ -15,10 +15,10 @@
 
 <img align="right" width="200" height="240" src="/assets/images/Bin.png">
 
-I'm a PhD student at the Economics Department of the University of Essex. My research cuts across labour, trade and urban economics and often involves using large-scale administrative data.
+I'm a PhD student at the Economics Department of the University of Essex. My research cuts across labour and personnel economics, trade and technology, and frequently involves the analysis of administrative data.
 
 ### Research Interests
-Firm Heterogeneity, Labour economics, Microeconometrics and Trade
+Firm Heterogeneity, Labour and Personnel Economics, Trade and Technology. 
  
 ### Contact
 Email: <bin.yu@essex.ac.uk>
