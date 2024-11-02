@@ -12,7 +12,7 @@
 
 ## Work in Progress
 
-1. Non-monetary Work Benefits: Implications for the Gender Pay Gap
+1. Why Does Paid Annual Leave Exist? Theoretical Insights and Empirical Evidence from the United Kingdom
 
 2. German Firms’ Responses to Trade Shocks From the East with Thomas Cornelissen (Essex) and Marco
 Francesconi (Essex)
