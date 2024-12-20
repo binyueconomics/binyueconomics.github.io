@@ -26,7 +26,6 @@ Email: <bin.yu@essex.ac.uk>
 Address: Colchester Campus, University of Essex, CO4 3SQ, UK. 
 
 ### News
-I will be coordinating [the 2nd Essex PhD Conference in Applied Economics](https://www.essex.ac.uk/events/2024/04/15/2nd-essex-phd-conference-in-applied-economics) (15 - 16 April, 2024). 
 
 <br>
 My school page at [Essex](https://www.essex.ac.uk/people/yubin29406/bin-yu)
