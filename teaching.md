@@ -11,7 +11,7 @@
 </p>
 
 ## Teaching
-Teaching Qualification: Associate Fellow of the Higher Education Academy (AFHEA)
+Teaching Qualification: Fellow of the Higher Education Academy (FHEA)
 
 2021-2025: EC114 Introduction to Quantitative Economics, Class.
 
